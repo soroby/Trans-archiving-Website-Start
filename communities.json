@@ -1,0 +1,33 @@
+[
+    {
+        "name": "BratVersusDemure",
+        "images": [
+            "images/BratVersusDemure_image1.jpg",
+            "images/BratVersusDemure_image2.jpg"
+        ],
+        "texts": [
+            "This marks the transition of BratVersusDemure."
+            "Lets be mindful of why we came to the community, lets be demure when we live our brat summer"
+        ],
+        "sounds": [
+            "sounds/BratVersusDemure_sound1.mp3",
+            "sounds/BratVersusDemure_sound2.mp3"
+        ]
+    },
+    {
+        "name": "DollificationSexDrive",
+        "images": [
+            "images/DollificationSexDrive_image1.jpg",
+            "images/DollificationSexDrive_image2.jpg"
+
+        ], 
+        "texts": [
+            "What happens to our sex drive when we go through dollification."
+            "I want to be pretty but I'm not sure I want to have sex"
+        ],
+        "sounds": [
+            "sounds/DollificationSexDrive_sound1.mp3",
+            "sounds/DollificationSexDrive_sound2.mp3"
+        ]
+    }
+]
